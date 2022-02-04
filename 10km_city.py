@@ -1,6 +1,5 @@
 from openpyxl import load_workbook
 import asyncio
-import time
 from selenium import webdriver
 from fake_useragent import UserAgent
 from selenium.webdriver.common.keys import Keys
